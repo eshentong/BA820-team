@@ -14,13 +14,13 @@ Git commands:
     3. git checkout - b <branch-name>: creating a new branch
     4. git switch <branch-name>: switching to a different branch
 ---------------------------------
-o EDA: 
-o Pre-processing: 
-o Analysis Plan: 
-o Preliminary Results: 
-o Next Steps: 
-o Coding Contribution:
-o GitHub Project: done  
+- EDA: 
+- Pre-processing: 
+- Analysis Plan: 
+- Preliminary Results: 
+- Next Steps: 
+- Coding Contribution:
+- GitHub Project: done  
 ----------------------------------
 For Project Deliverable 2, include:
 o A 2-page report summarizing exploratory and preliminary analysis. Supplement with an appendix for
