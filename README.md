@@ -1,5 +1,5 @@
-Project Deliverable 2
-BA 820
+**Project Deliverable 2**
+BA820
 
 Git commands: 
 - Changing directory: cd Google\Drive/My\Drive/BA820-team
