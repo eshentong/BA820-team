@@ -20,7 +20,7 @@ o Analysis Plan:
 o Preliminary Results: 
 o Next Steps: 
 o Coding Contribution:
-o GitHub Project: ✅ done  
+o GitHub Project: done  
 ----------------------------------
 For Project Deliverable 2, include:
 o A 2-page report summarizing exploratory and preliminary analysis. Supplement with an appendix for
