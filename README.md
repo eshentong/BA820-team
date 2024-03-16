@@ -1,7 +1,16 @@
-**Project Deliverable 2**
-BA820
+# BA820 Project Deliverable Final #
 
-Git commands: 
+## Goals and Motivations ##
+By utilizing unsupervised machine learning methods, my team of six and I analyzed Sephora products and their reviews. 
+
+Some of the techniques that we utilized are:
+- Market Basket Analysis based on purchase records
+- K-means Clustering on features
+- TF-IDF on Product reviews
+- Review sentiment Analysis using GloVe
+
+
+### Git commands ###
 - Changing directory: cd Google\Drive/My\Drive/BA820-team
 - Updating local repo: git pull
 - Updating github main:
@@ -13,20 +22,3 @@ Git commands:
     2. git status: checking if you're behind/ahead
     3. git checkout - b <branch-name>: creating a new branch
     4. git switch <branch-name>: switching to a different branch
----------------------------------
-- EDA: 
-- Pre-processing: 
-- Analysis Plan: 
-- Preliminary Results: 
-- Next Steps: 
-- Coding Contribution:
-- GitHub Project: done  
-----------------------------------
-For Project Deliverable 2, include:
-o A 2-page report summarizing exploratory and preliminary analysis. Supplement with an appendix for
-tables and figures.
-Font Type: Times New Roman
-Font Size: 12-point
-Margins: 1 inch on all sides
-o A Python (.ipynb) notebook with detailed code, comments, and analysis.
-o Link to GitHub Project & Contribution Sheet
