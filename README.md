@@ -9,6 +9,8 @@ Some of the techniques that we utilized are:
 - TF-IDF on Product reviews
 - Review sentiment Analysis using GloVe
 
+-------
+
 
 **Git commands**
 - Changing directory: cd Google\Drive/My\Drive/BA820-team
