@@ -10,7 +10,7 @@ Some of the techniques that we utilized are:
 - Review sentiment Analysis using GloVe
 
 
-### Git commands ###
+**Git commands**
 - Changing directory: cd Google\Drive/My\Drive/BA820-team
 - Updating local repo: git pull
 - Updating github main:
